@@ -1,0 +1,17 @@
+{
+  "name": "Escobar & Asociados | Outsourcing Contable en Sullana - Piura",
+  "short_name": "Escobar & Asociados",
+  "description": "Outsourcing Contable en Sullana - Piura. Servicios contables, tributarios y laborales.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#662D91",
+  "lang": "es-PE",
+  "icons": [
+    {
+      "src": "img/equipo-oficial.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
